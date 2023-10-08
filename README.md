@@ -77,5 +77,5 @@ Use the Ganache provider to get the private for your account address
 
 Final Screen
 =======
-   ![image](https://github.com/SarthakIC/Krantiveer/assets/147310031/4fbd3e2f-cb1a-4a3d-92cd-aa3daf7de66c)
+![image](https://github.com/TarunSaroch/Krantiveer/assets/123083325/185d29b0-3226-4643-b858-7461519004fb)
 
