@@ -6,9 +6,9 @@ IC Hack 2.0 Healthcare Project
 
    ![image](https://github.com/SarthakIC/Krantiveer/assets/147310031/4fbd3e2f-cb1a-4a3d-92cd-aa3daf7de66c)
 
-# Disease Prediction from Symptoms
+# Patient Centric Data Management System
 
-This project explores the use of machine learning algorithms to predict diseases from symptoms. 
+This project explores the use of machine learning algorithms and BlockChain to predict diseases from symptoms and store the confidential data on Metamask Wallet. 
 
 ### Algorithms Explored
 
@@ -42,6 +42,15 @@ This dataset has 83 total columns, 132 of them being symptoms experienced by pat
          |_ [ pre-trained models ]
 
 |_ demo.py [ code for laoding kaggle dataset, training & saving the model]
+
+|_ BlockChain Implementation/
+    |_index.html
+    |_package-lock.json
+    |_package.josn
+    |_project.sol
+    |_server.js
+    |_tempCodeRunner.js
+```
 
 2. Blockchain Implementation
 ![image](https://github.com/TarunSaroch/Krantiveer/assets/123083325/9694db09-e546-4e2e-8d80-250bb548f69d)
